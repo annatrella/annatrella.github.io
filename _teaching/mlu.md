@@ -8,4 +8,4 @@ date: 2019
 location: "Seattle, WA"
 ---
 
-Teaching Assistant for AWS Machine Learning University
+Teaching Assistant for [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
