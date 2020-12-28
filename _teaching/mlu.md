@@ -4,7 +4,7 @@ collection: teaching
 type: "Amazon Internal Training"
 permalink: /teaching/mlu
 venue: "Amazon Web Services - Machine Learning University"
-date: 2019
+date: 2019-01-01
 location: "Seattle, WA"
 ---
 

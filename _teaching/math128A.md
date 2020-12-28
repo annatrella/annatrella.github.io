@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/math128A
 venue: "University of California, Berkeley: Department of Mathematics"
-date: 2016
+date: 2016-01-01
 location: "Berkeley, CA"
 ---
 

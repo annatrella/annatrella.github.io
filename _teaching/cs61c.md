@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/cs61c
 venue: "University of California, Berkeley: Department of Electrical Engineering and Computer Science"
-date: 2017-2018
+date: 2018-01-01
 location: "Berkeley, CA"
 ---
 
