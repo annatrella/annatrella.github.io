@@ -4,11 +4,11 @@ main:
     url: /files/annajli_resume.pdf
 
   - title: "Teaching"
-    url: /teaching/    
-  #
-  # - title: "Portfolio"
-  #   url: /portfolio/
-  #
+    url: /teaching/
+
+  - title: "Projects"
+    url: /projects/
+  
   # - title: "Blog Posts"
   #   url: /year-archive/
   #
