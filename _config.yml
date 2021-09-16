@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anna J. Li"
+title                    : "Anna L. Trella"
 title_separator          : "-"
-name                     : &name "Anna J. Li"
+name                     : &name "Anna L. Trella"
 description              : &description "personal description"
-url                      : https://annajli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://annatrella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "annajli/annajli.github.io"
+repository               : "annatrella/annatrella.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anna J. Li"
+  name             : "Anna L. Trella"
   avatar           : "annajli-2.jpeg"
   bio              : "Computer Science Ph.D. Student - The School of Engineering and Applied Sciences @ Harvard University"
   location         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "annajli"
+  github           : "annatrella"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anna-li-31b544bb"
+  linkedin         : "anna-trella-31b544bb"
   orcid            :
   pinterest        :
   soundcloud       :
