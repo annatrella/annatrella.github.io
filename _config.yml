@@ -81,16 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Anna L. Trella"
-  avatar           : "annajli-2.jpeg"
-  bio              : "Computer Science Ph.D. Student - The School of Engineering and Applied Sciences @ Harvard University"
+  avatar           : "anna_profile.jpeg"
+  bio              : "Computer Science Ph.D. Candidate - The School of Engineering and Applied Sciences @ Harvard University"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "mAgilOsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mAgilOsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
