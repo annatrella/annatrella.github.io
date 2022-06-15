@@ -86,11 +86,11 @@ author:
   location         :
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "mAgilOsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "annajli"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
