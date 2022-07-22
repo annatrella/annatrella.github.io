@@ -14,13 +14,16 @@ Hello! I am a Ph.D. Candidate in the [Computer Science Department](https://www.s
 Before coming to Harvard, I was a Technical Lead at Amazon, developing on backend, desktop, mobile web, and mobile app (native and react native) platforms for the configurable, contextual and personalized navigation experience for Wholefoods Market, Prime Now, & Amazon Fresh.
 
 # News
-June 2022 - I will be presenting my research at the [2022 ICSA Applied Statistics Symposium](https://symposium2022.icsa.org/) for the *Precision Digital Health Care via Machine Learning* session
+July 2022 - Our full paper on *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* is available [here](https://www.mdpi.com/1999-4893/15/8/255) has been accepted and published to the Algorithms journal!
 
-June 2022 - Our full paper on *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* is available [here](https://www.preprints.org/manuscript/202206.0028/v1) at Preprints.
+July 2022 - I am grateful to have received the
+Derek Bok Certificate of Distinction in Teaching Award from Harvard University.
+
+June 2022 - I presented my research at the [2022 ICSA Applied Statistics Symposium](https://symposium2022.icsa.org/) for the *Precision Digital Health Care via Machine Learning* session
+
+June 2022 - I presented our work *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* in a full-length oral presentation at [the RLMD 2022 Conference](https://rldm.org/)
 
 May 2022 - I am grateful to have received the RLDM 2022 Student Travel Fellowship!
-
-April 2022 - Our work *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* was accepted as an extended abstract and chosen for an oral presentation at [the RLMD 2022 Conference](https://rldm.org/)
 
 March 2022 - Our work *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* was accepted as a poster and lightening talk by [WIDS Cambridge](https://www.widscambridge.org/posters)
 

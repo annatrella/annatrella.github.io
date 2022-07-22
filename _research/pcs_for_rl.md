@@ -2,4 +2,4 @@
 title: "Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-Implementation Guidelines"
 collection: research
 ---
-Anna L. Trella, Kelly W. Zhang, Inbal Nahum-Shani, Vivek Shetty, Finale Doshi-Velez, Susan A. Murphy. *Contributed Talk at RLDM 2022 (Multi-disciplinary Conference on RL and Decision Making)* [[paper](https://www.preprints.org/manuscript/202206.0028/v1)] [[code](https://github.com/StatisticalReinforcementLearningLab/pcs-for-rl)]
+Anna L. Trella, Kelly W. Zhang, Inbal Nahum-Shani, Vivek Shetty, Finale Doshi-Velez, Susan A. Murphy. *Special Issue of Algorithms in Decision Support Systems Vol. 2*, 2022 [[paper](https://www.mdpi.com/1999-4893/15/8/255)] [[code](https://github.com/StatisticalReinforcementLearningLab/pcs-for-rl)]
