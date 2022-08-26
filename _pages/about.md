@@ -14,6 +14,10 @@ Hello! I am a Ph.D. Candidate in the [Computer Science Department](https://www.s
 Before coming to Harvard, I was a Technical Lead at Amazon, developing on backend, desktop, mobile web, and mobile app (native and react native) platforms for the configurable, contextual and personalized navigation experience for Wholefoods Market, Prime Now, & Amazon Fresh.
 
 # News
+August 2022 - I am excited to be presenting our work and be apart of the roundtable discussion at the RL at Harvard workshop!
+
+August 2022 - Our paper on *Reward Design For An Online Reinforcement Learning Algorithm Supporting Oral Self-Care* is currently under review and the arxiv version is available [here](https://arxiv.org/abs/2208.07406).
+
 July 2022 - Our full paper on *Designing Reinforcement Learning Algorithms for Digital Interventions: Pre-implementation Guidelines* is available [here](https://www.mdpi.com/1999-4893/15/8/255) has been accepted and published to the Algorithms journal!
 
 July 2022 - I am grateful to have received the
