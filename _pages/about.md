@@ -14,6 +14,9 @@ Hello! I am a Ph.D. Candidate in the [Computer Science Department](https://www.s
 Before coming to Harvard, I was a Technical Lead at Amazon, developing on backend, desktop, mobile web, and mobile app (native and react native) platforms for the configurable, contextual and personalized navigation experience for Wholefoods Market, Prime Now, & Amazon Fresh.
 
 # News
+
+February 2024 - Our [Oralytics protocol paper](https://www.sciencedirect.com/science/article/abs/pii/S1551714424000387) has been accepted and published in the Contemporary Clinical Trials journal!
+
 November 2023 - I received a scholarship from the Global Symposium on AI in Dentistry hosted by Harvard School of Dental Medicine.
 
 September 2023 - The RL Algorithm we developed is officially running in the [Oralytics clinical trial](https://clinicaltrials.gov/study/NCT05624489)!
