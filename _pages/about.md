@@ -9,21 +9,25 @@ redirect_from:
 ---
 
 # About Me
-Hello! I am a Ph.D. Candidate in the [Computer Science Department](https://www.seas.harvard.edu/computer-science) at Harvard University advised by [Professor Finale Doshi-Velez](https://finale.seas.harvard.edu/) and [Professor Susan Murphy](http://people.seas.harvard.edu/~samurphy/). My primary research focus is designing and deploying reinforcement learning (RL) algorithms for real-world systems.
+Hello! I am a Ph.D. Candidate in the [Computer Science Department](https://www.seas.harvard.edu/computer-science) at Harvard University advised by [Professor Finale Doshi-Velez](https://finale.seas.harvard.edu/) and [Professor Susan Murphy](http://people.seas.harvard.edu/~samurphy/). My primary research focus is designing and deploying online reinforcement learning (RL) algorithms for real-world systems.
 
 Before coming to Harvard, I was a Technical Lead at Amazon, developing on backend, desktop, mobile web, and mobile app (native and react native) platforms for the configurable, contextual and personalized navigation experience for Wholefoods Market, Prime Now, & Amazon Fresh.
 
 # News
 
+July 2024 - The [Oralytics clinical trial](https://clinicaltrials.gov/study/NCT05624489) has completed! Check out our [Oralytics deployment paper](https://arxiv.org/pdf/2409.02069) which contains re-sampling analyses to evaluate the algorithm post-trial.
+
+May 2024 - I presented our [Monitoring fidelity paper](https://arxiv.org/pdf/2402.17003) at the Society for Clinical Trials Annual Meeting. 
+
 February 2024 - Our [Oralytics protocol paper](https://www.sciencedirect.com/science/article/abs/pii/S1551714424000387) has been accepted and published in the Contemporary Clinical Trials journal!
 
 November 2023 - I received a scholarship from the Global Symposium on AI in Dentistry hosted by Harvard School of Dental Medicine.
 
-September 2023 - The RL Algorithm we developed is officially running in the [Oralytics clinical trial](https://clinicaltrials.gov/study/NCT05624489)!
+September 2023 - The RL Algorithm ([design details here](https://arxiv.org/pdf/2406.13127)) we developed is officially running in the [Oralytics clinical trial](https://clinicaltrials.gov/study/NCT05624489)!
 
 June 2023 - I am extremely grateful to be back at Amazon as an Applied Scientist Intern on the Alexa AI team. I worked on improving personalization for LLMs using supervised and RL-based methods.
 
-June 2023 - I was invited to Two Sigma's Soho HQ for the [PhD Symposium](https://www.twosigma.com/events/the-discovery-two-sigma-phd-symposium-2023/) to present our work on reward design.
+June 2023 - I was invited to Two Sigma's Soho HQ for the [PhD Symposium](https://www.twosigma.com/events/the-discovery-two-sigma-phd-symposium-2023/) to present our work on [reward design](https://arxiv.org/pdf/2208.07406).
 
 February 2023 - I gave a full-length oral presentation at AAAI 2023 in the Innovative Applications of Artificial Intelligence (IAAI-23) Medical session.
 
