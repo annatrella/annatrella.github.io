@@ -15,7 +15,7 @@ Before coming to Harvard, I was a Technical Lead at Amazon, developing on backen
 
 # News
 
-February 2025 - Our [Oralytics deployment paper](https://arxiv.org/pdf/2409.02069) has been accepted and awarded a full-length presentation at IAAI-25 / AAAI-25. This paper conducts post-trial re-sampling analyses to evaluate the algorithm. Result indicate that the Oralytics algorithm did indeed learn the advantage of one action over the other in certain states.
+February 2025 - Our [Oralytics deployment paper](https://arxiv.org/pdf/2409.02069) has been accepted and awarded a full-length presentation at IAAI-25 / AAAI-25. This paper conducts post-trial re-sampling analyses to evaluate the algorithm. Results indicate that the Oralytics algorithm did indeed learn the advantage of one action over the other in certain states.
 
 November 2024 - I was invited to give a talk at [SLDS 2024](https://sites.google.com/view/slds2024/menu?authuser=0) in the ``Statistical learning in clinical trials" session. I presented our recent [Oralytics deployment paper](https://arxiv.org/pdf/2409.02069).
 
